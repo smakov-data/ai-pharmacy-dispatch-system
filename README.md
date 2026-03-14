@@ -1,4 +1,4 @@
-# AI Pharmacy Delivery Dispatch System
+# AI Dispatch Decision System
 
 Applied AI system that simulates and monitors a pharmacy delivery network and produces operational dispatch recommendations based on system state and risk evaluation.
 
