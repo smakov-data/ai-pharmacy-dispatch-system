@@ -17,6 +17,8 @@ Synthetic Network → Metrics → State Vector → Risk Model → Dispatch Decis
 
 ## System Architecture
 
+The system transforms simulated delivery operations into operational metrics, derives a system state vector, evaluates risk, and produces dispatch decisions displayed in the dashboard.
+
 <img src="docs/system_architecture.png" width="700">
 
 ## Tech Stack
