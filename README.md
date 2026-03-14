@@ -35,3 +35,7 @@ Dashboard showing:
 - System Risk Score
 - Dispatch Recommendation
 - Zone Delivery Load
+
+
+Example system dashboard:
+<img src="docs/dashboard.png" width="800">
