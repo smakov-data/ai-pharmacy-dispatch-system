@@ -15,6 +15,10 @@ Applied AI system that simulates and monitors a pharmacy delivery network and pr
 
 Synthetic Network → Metrics → State Vector → Risk Model → Dispatch Decision
 
+## System Architecture
+
+<img src="docs/system_architecture.png" width="700">
+
 ## Tech Stack
 
 Python  
