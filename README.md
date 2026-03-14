@@ -8,12 +8,12 @@ Applied AI system that simulates and monitors a pharmacy delivery network and pr
 - Operational KPI monitoring
 - System state vector (CEI, CLI, NODI, WBI)
 - Risk scoring model
-- Dispatch decision rules
+- Decision engine for dispatch recommendations
 - Interactive dashboard (Streamlit)
 
 ## Architecture
 
-Synthetic Network → Metrics → State Vector → Risk Model → Dispatch Decision
+Synthetic Delivery Network → Operational Metrics → System State Vector → Risk Model → Dispatch Decision Engine → Dashboard
 
 ## System Architecture
 
