@@ -1,0 +1,77 @@
+/* Dynamic Theme */
+
+.stApp {
+    background-color: __BG__;
+    color: __TEXT__;
+}
+
+/* Заголовки */
+h1, h2, h3, h4, h5, h6 {
+    color: __ACCENT__ !important;
+    font-weight: 700;
+}
+
+/* Метрики */
+[data-testid="stMetric"] {
+    background-color: __PANEL__;
+    border: 1px solid __BORDER__;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+/* Подписи метрик */
+[data-testid="stMetricLabel"] {
+    color: __MUTED__ !important;
+}
+
+/* Значения метрик */
+[data-testid="stMetricValue"] {
+    color: __TEXT__ !important;
+}
+
+/* Обычный текст */
+p, div, span, label {
+    color: __TEXT__;
+}
+
+/* Таблица */
+[data-testid="stDataFrame"] {
+    border: 1px solid __BORDER__;
+    border-radius: 10px;
+}
+
+/* Recommendation box */
+.recommendation-box {
+    border-left: 4px solid __ACCENT__;
+    padding: 12px;
+    background: __PANEL__;
+    border-radius: 6px;
+}
+
+/* AI Insight box */
+.ai-box {
+    border-left: 4px solid __ACCENT__;
+    padding: 12px;
+    background: __PANEL__;
+    border-radius: 6px;
+}
+
+.metric-name {
+    color: __ACCENT__;
+    font-weight: 700;
+}
+
+.metric-critical {
+    color: #FF3B3B;
+    font-weight: 800;
+}
+
+.metric-low {
+    color: #FF3B3B;
+    font-weight: 700;
+}
+
+.metric-high {
+    color: #00FFB3;
+    font-weight: 700;
+}
