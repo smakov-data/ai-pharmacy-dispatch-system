@@ -120,7 +120,10 @@ Available dashboard themes:
 - Orbit Navy
 - Mars Red
 - Quantum Blue
-
+<img src="docs/Deep Matrix.png" width="300">
+<img src="docs/Orbit Navy.png" width="300">
+<img src="docs/Mars Red.png" width="300">
+<img src="docs/Quantum Blue.png" width="300">
 
 ## Dashboard Preview
 Example dashboard output:
