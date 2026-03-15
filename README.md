@@ -115,6 +115,13 @@ Dashboard capabilities:
 - zone delivery load monitoring
 - multi-theme UI system
 
+## Dashboard Preview
+Example dashboard output:
+<img src="docs/dashboard.png" width="800">
+
+Additional views:
+<img src="docs/state-vector.png" width="800"> <img src="docs/ai-insight.png" width="800">
+
 ## Dashboard Themes
 | Deep Matrix | Orbit Navy |
 |-------------|------------|
@@ -123,13 +130,6 @@ Dashboard capabilities:
 | Mars Red | Quantum Blue |
 |----------|--------------|
 | <img src="docs/mars_red.png" width="450"> | <img src="docs/quantum_blue.png" width="450"> |
-
-## Dashboard Preview
-Example dashboard output:
-<img src="docs/dashboard.png" width="800">
-
-Additional views:
-<img src="docs/state-vector.png" width="800"> <img src="docs/ai-insight.png" width="800">
 
 
 ## Tech Stack
