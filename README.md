@@ -1,5 +1,10 @@
 # AI Dispatch Decision System
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+![Status](https://img.shields.io/badge/Project-Completed-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Applied AI system that simulates and monitors a pharmacy delivery network and produces operational dispatch recommendations based on system state and risk evaluation.
 The system demonstrates how operational analytics and AI-style reasoning layers can be combined to support logistics decision-making.
 
@@ -175,7 +180,15 @@ ai-pharmacy-dispatch-system
 ```
 
 ## Run
-
-pip install -r requirements.txt  
+```bash
+pip install -r requirements.txt
 streamlit run app/main.py
+```
 
+## Author
+
+Ruslan Smakov  
+Analytics / Data / AI Systems
+
+GitHub  
+https://github.com/smakov-data
