@@ -122,12 +122,12 @@ Dashboard capabilities:
 
 ### System State Vector
 <p align="center">
-<img src="docs/state_vector.png" width="700">
+<img src="docs/state-vector.png" width="700">
 </p>
 
 ### AI Operational Insight
 <p align="center">
-<img src="docs/ai_insight.png" width="700">
+<img src="docs/ai-insight.png" width="700">
 </p>
 
 ## Dashboard Themes
