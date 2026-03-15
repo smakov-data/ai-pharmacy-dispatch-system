@@ -116,11 +116,19 @@ Dashboard capabilities:
 - multi-theme UI system
 
 ## Dashboard Preview
-Example dashboard output:
-<img src="docs/dashboard.png" width="800">
+<p align="center">
+<img src="docs/dashboard.png" width="700">
+</p>
 
-Additional views:
-<img src="docs/state-vector.png" width="800"> <img src="docs/ai-insight.png" width="800">
+### System State Vector
+<p align="center">
+<img src="docs/state_vector.png" width="700">
+</p>
+
+### AI Operational Insight
+<p align="center">
+<img src="docs/ai_insight.png" width="700">
+</p>
 
 ## Dashboard Themes
 | Deep Matrix | Orbit Navy |
